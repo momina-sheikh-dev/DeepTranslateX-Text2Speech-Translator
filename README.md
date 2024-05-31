@@ -1,1 +1,1 @@
-# Puthon-Translator
+# Python-Translator
